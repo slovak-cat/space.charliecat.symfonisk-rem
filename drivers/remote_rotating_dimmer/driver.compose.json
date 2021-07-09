@@ -1,8 +1,6 @@
 {
   "name": {
-    "en": "Rotating Dimmer",
-    "nl": "Draai Dimmer",
-    "de": "Drehdimmer"
+    "en": "SYMFONISK Sound Controller"
   },
   "class": "sensor",
   "capabilities": [
@@ -16,8 +14,6 @@
   "zigbee": {
     "manufacturerName": "IKEA of Sweden",
     "productId": [
-      "TRADFRI dimmer",
-      "TRADFRI wireless dimmer",
       "SYMFONISK Sound Controller"
     ],
     "endpoints": {
@@ -36,9 +32,7 @@
     "learnmode": {
       "image": "/drivers/remote_rotating_dimmer/assets/learnmode.svg",
       "instruction": {
-        "en": "Open up the Rotating Dimmer to access the pair button. Press the pair button 4 times in 5 seconds and wait for the LED to start blinking.",
-        "nl": "Maak de Draai Dimmer open om bij de pair knop te komen. Druk 4 keer op de pair knop binnen 5 seconden en wacht tot het lampje gaat knipperen.",
-        "de": "Öffne den Drehdimmer, um auf die Koppeln-Taste zuzugreifen. Drücke die Taste 4 Mal in 5 Sekunden."
+        "en": "Open up the Controller to access the pair button. Press the pair button 4 times in 5 seconds and wait for the LED to start blinking."
       }
     }
   },
@@ -51,9 +45,7 @@
       "id": "sensitivity",
       "type": "number",
       "label": {
-        "nl": "Dimmer gevoeligheid",
-        "en": "Dimmer sensitivity",
-        "de": "Dimmerempfindlichkeit"
+        "en": "Sensitivity"
       },
       "value": 1,
       "attr": {

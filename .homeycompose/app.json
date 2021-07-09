@@ -1,29 +1,27 @@
 {
-  "id": "com.ikea.tradfri",
+  "id": "space.charliecat.symfonisk-rem",
   "name": {
-    "en": "IKEA Trådfri",
-    "de": "IKEA Trådfri"
+    "en": "IKEA Symfonisk"
   },
   "description": {
-    "en": "Create the right atmosphere for every mood",
-    "nl": "Creëer de juiste sfeer voor elke stemming"
+    "en": "Add Symfonisk Remotes"
   },
   "category": [
-    "lights"
+    "music"
   ],
-  "version": "1.8.4",
+  "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "brandColor": "#0b579e",
   "sdk": 3,
   "author": {
-    "name": "Athom B.V.",
-    "email": "info@athom.com"
+    "name": "CharlieCat",
+    "email": "meow@charliecat.space"
   },
   "contributors": {
     "developers": [
       {
-        "name": "Lucas van der Have",
-        "email": "lucasvdhave@gmail.com"
+        "name": "CharlieCat",
+        "email": "meow@charliecat.space"
       }
     ]
   },

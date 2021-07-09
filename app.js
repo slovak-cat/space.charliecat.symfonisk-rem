@@ -8,7 +8,7 @@ const { debug } = require('zigbee-clusters');
 // Enable zigbee-cluster logging
 debug(true);
 
-class IkeaTradfriApp extends Homey.App {
+class IkeaSymfApp extends Homey.App {
 
   onInit() {
     this.log('init');

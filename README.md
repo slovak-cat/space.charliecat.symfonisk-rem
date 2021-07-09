@@ -1,4 +1,4 @@
-# IKEA Trådfri
+# IKEA Symfonisk Remotes
 This repository serves as inspiration for your own Homey app, to help you understand Homey Apps SDK concepts in a real-life context.
 
 Read the [Homey Apps SDK Documentation](https://apps.developer.homey.app) for more information about developing apps for Homey.

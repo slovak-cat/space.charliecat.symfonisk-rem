@@ -4,9 +4,7 @@
       "id": "dimmer_rotated",
       "deprecated": true,
       "title": {
-        "en": "Dimmer was rotated",
-        "nl": "Dimmer is gedraaid",
-        "de": "Dimmer wurde gedreht"
+        "en": "Controller was rotated"
       },
       "tokens": [
         {
@@ -24,9 +22,7 @@
     {
       "id": "dimmer_rotate_stopped",
       "title": {
-        "en": "Dimmer is rotated",
-        "nl": "Dimmer is gedraaid",
-        "de": "Dimmer wurde gedreht"
+        "en": "Controller is rotated"
       },
       "tokens": [
         {
