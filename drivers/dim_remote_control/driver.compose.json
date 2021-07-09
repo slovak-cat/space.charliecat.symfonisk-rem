@@ -1,8 +1,7 @@
 {
   "id": "dim_remote_control",
   "name": {
-    "en": "Wireless Dimmer",
-    "nl": "Draadloze Dimmer"
+    "en": "SYMFONISK Sound Controller",
   },
   "class": "remote",
   "capabilities": [
@@ -16,7 +15,7 @@
   "zigbee": {
     "manufacturerName": "IKEA of Sweden",
     "productId": [
-      "TRADFRI on/off switch"
+      "SYMFONISK Sound Controller"
     ],
     "endpoints": {
       "1": {
@@ -32,8 +31,7 @@
     "learnmode": {
       "image": "/drivers/dim_remote_control/assets/learnmode.svg",
       "instruction": {
-        "en": "Open up the Wireless Dimmer to access the pair button. Press the pair button 4 times in 5 seconds and wait for the LED to start blinking.",
-        "nl": "Maak de Draadloze Dimmer open om bij de pair knop te komen. Druk 4 keer op de pair knop binnen 5 seconden en wacht tot het lampje gaat knipperen."
+        "en": "Open up the Sound Contloler to access the pair button. Press the pair button 4 times in 5 seconds and wait for the LED to start blinking.",
       }
     }
   },
