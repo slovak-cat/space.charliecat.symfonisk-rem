@@ -1,1 +1,1 @@
-Add Symfonisk Remotes
+Add your IKEA Symfonisk Remotes to Homey and control anything you want to. Set remote to pair mode and then connect to Homey.

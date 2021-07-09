@@ -1,10 +1,10 @@
 {
   "id": "space.charliecat.symfonisk-rem",
   "name": {
-    "en": "IKEA Symfonisk"
+    "en": "Symfonisk"
   },
   "description": {
-    "en": "Add Symfonisk Remotes"
+    "en": "Rotate Symfonisk Controller with Homey too"
   },
   "category": [
     "music"
@@ -17,16 +17,13 @@
     "name": "CharlieCat",
     "email": "meow@charliecat.space"
   },
-  "contributors": {
-    "developers": [
-      {
-        "name": "CharlieCat",
-        "email": "meow@charliecat.space"
-      }
-    ]
-  },
   "images": {
     "large": "/assets/images/large.png",
-    "small": "/assets/images/small.png"
+    "small": "/assets/images/small.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/athom/com.athom.myapp/issues",
+    "source": "https://github.com/athombv/com.athom.myapp"
   }
 }
