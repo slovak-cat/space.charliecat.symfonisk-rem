@@ -17,7 +17,8 @@
     "manufacturerName": "IKEA of Sweden",
     "productId": [
       "TRADFRI dimmer",
-      "TRADFRI wireless dimmer"
+      "TRADFRI wireless dimmer",
+      "SYMFONISK Sound Controller"
     ],
     "endpoints": {
       "1": {

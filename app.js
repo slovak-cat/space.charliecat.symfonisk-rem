@@ -17,4 +17,4 @@ class IkeaTradfriApp extends Homey.App {
 
 }
 
-module.exports = IkeaTradfriApp;
+module.exports = IkeaSymfApp;
