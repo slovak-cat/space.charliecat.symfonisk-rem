@@ -5,7 +5,7 @@
     "en": "Symfonisk"
   },
   "description": {
-    "en": "Rotate Symfonisk with Homey too"
+    "en": "Rotate Symfonisk Controller with Homey too"
   },
   "category": [
     "music"
@@ -18,17 +18,14 @@
     "name": "CharlieCat",
     "email": "meow@charliecat.space"
   },
-  "contributors": {
-    "developers": [
-      {
-        "name": "CharlieCat",
-        "email": "meow@charliecat.space"
-      }
-    ]
-  },
   "images": {
     "large": "/assets/images/large.png",
-    "small": "/assets/images/small.png"
+    "small": "/assets/images/small.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "bugs": {
+    "url": "https://github.com/slovak-cat/space.charliecat.symfonisk-rem/issues",
+    "source": "https://github.com/slovak-cat/space.charliecat.symfonisk-rem"
   },
   "flow": {
     "triggers": [
