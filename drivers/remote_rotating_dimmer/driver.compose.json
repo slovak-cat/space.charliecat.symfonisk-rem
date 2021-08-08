@@ -2,7 +2,7 @@
   "name": {
     "en": "SYMFONISK Sound Controller"
   },
-  "class": "sensor",
+  "class": "remote",
   "capabilities": [
     "alarm_battery"
   ],
